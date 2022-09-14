@@ -1,0 +1,4 @@
+#Sun Sep 11 11:22:48 EET 2022
+base.0=/Users/zian/progects/task_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
